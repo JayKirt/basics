@@ -11,11 +11,19 @@ h2 {
 }
 
 p {
-    color: #553100;
-    line-height: 20px;
+    color: #123652;
+    line-height: 30px;
     font-family: 'Open Sans', sans-serif;
     font-weight:900;
 
+}
+
+img {
+    float: right;
+}
+footer {
+    clear:both;
+    text-align: center;
 }
 
 li {
